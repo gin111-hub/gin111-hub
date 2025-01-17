@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning basic algorithm
+🤔 I’m looking for help with qxplanations for some knowledge
+⚡I want to know leading-edge knowledge
